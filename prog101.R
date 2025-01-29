@@ -88,7 +88,6 @@ plot_kefj(coldday_datetime, coldday_temperature, coldday_exposure)
 # The coldest graph reaches its exposure for a longer period of time compared to the hottest graph.
 
 # How did Traiger et al. define extreme temperature exposure?
-#
 
 # Translate their written description to code and calculate the extreme heat
 # exposure for the hottest day.
