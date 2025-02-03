@@ -85,6 +85,10 @@ plot_kefj(coldday_datetime, coldday_temperature, coldday_exposure)
 # What patterns do you notice in time, temperature, and exposure? Do those
 # patterns match your intuition, or do they differ?
 # Air/transition for both extreme conditions reach its lowest or highest exposure.
+# extreme temp happen during air/transition and not while the logger is submerged
+# because water has a high heat capacity that neutralizes, allowing the temperature to become more neutral and not extreme. Also, hottest temp happen during the time
+# where the sun is the most effective, while the coldest temp happens during the
+# time where the sun is least effective.
 # The coldest graph reaches its exposure for a longer period of time compared to the hottest graph.
 
 # How did Traiger et al. define extreme temperature exposure?
