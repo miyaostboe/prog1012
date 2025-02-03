@@ -30,3 +30,5 @@ tolower(LETTERS[(length(LETTERS)-10):length(LETTERS)])
 
 LETTERS[(length(LETTERS-10)):length(LETTERS)]
 # error: (LETTERS)-10
+
+tolower(LETTERS[(length(LETTERS)-10):length(LETTERS)])
